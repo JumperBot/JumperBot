@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JumperBot
 - 👀 I’m `interested` in `coding`, and `making animated educational videos`.
 - 🌱 I’m currently `learning everything`
-- 💞️ I’m looking to `collaborate` on making `YouTube` `videos` not concerning `coding`
+- 💞️ I’m looking to almost nothing right now
 - 📫 How to `reach` me? Well, that's not so much of a good idea to be honest.
 
 <!---
