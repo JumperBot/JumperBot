@@ -2,7 +2,7 @@
 - 👀 I’m `interested` in `coding`, and `making animated educational videos`.
 - 🌱 I’m currently `learning everything`
 - 💞️ I’m looking to almost nothing right now, but to finish my `projects`.
-- 📫 How to `reach` me? Well, that's not so much of a good idea to be honest.
+- 📫 How to `reach` me? Go over here: <img src="YT.png" height="15vh"></img> [YT Channel](https://youtube.com/channel/UCp7-e58oTMBArfCeiSooISA/).
 
 <!---
 JumperBot/JumperBot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
